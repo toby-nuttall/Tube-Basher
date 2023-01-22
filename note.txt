@@ -1,0 +1,19 @@
+i actaully made it !
+
+this programme takes your start and stop points for london underground stops and returns all the ways to get between them
+with 1 or 0 connections
+
+to programme 2 connections would be really hard 
+
+to programme 3 connections would be really, really hard 
+i suspect that the number of ways increases massivley with the number of connections
+im pretty sure you can probably get just about anywhere off just 1 connection, maybe the odd couple of places will be unreachable with just 1 but i suspect not many 
+
+
+i could improve this by:
+.adding the actual underground data
+.limit case testing it
+.making a GUI 
+.making it into an app and downloading it on my phone
+.potentially have it communicate with CSV files so that any graph-map can be solved like this
+.maybe one day ill build my own graph maps for all of england and use this code to optimise train journeys 
